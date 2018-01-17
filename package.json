@@ -1,0 +1,17 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "Image Search Abstraction Layer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server/app"
+  },
+  "author": "Merizza Khan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.13.7"
+  }
+}
